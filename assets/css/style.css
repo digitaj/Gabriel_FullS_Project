@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+}
+.nav1{ 
+    width: 100% !important;
+    /* box-shadow: 5px 5px 10px gray; */
+}
+h1{
+    font-family: "Roboto", sans-serif;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    
+}
+ul li a{
+    padding: 15px !important;
+    color: #3b4144 !important;
+}
+ ul li a:hover{
+    background-color: #78b833;
+    border-radius: 10px;
+}
+/* ul li button{
+    padding: 15px !important;
+} */
+.inside{
+    justify-content: center !important;
+}
+.inside input{
+    border-radius: 10px;
+    min-height: 60px;
+}
+.cad_1{
+    width: 10% !important;
+}
+.cad{
+    /* border-radius: 15px 0px 15px 0px; */
+    min-height: 300px;
+    border: none !important;
+}
+
+.iterms .homes_1{
+    text-decoration: none;
+    color: black;
+}
+.iterms_1{
+    font-weight: bold;
+}
+.help .child{
+    
+    min-height: 200px;
+}
+.search{
+    border-radius: 20px !important;
+}
+.homes{
+    margin-top: 80px !important;
+    justify-content: space-between;
+}
+.get_homes{
+    border: 2px solid red;
+    min-height: 300px;
+}
+.cuilture {
+    border-radius: 15px;
+}
+.cul {
+    margin-bottom: 200px !important;
+}
+.button{
+    background-color: #78b833 !important;
+    border-radius: 20px !important;
+    color: white !important;
+    border: none !important;
+}
+.first_p {
+    background-color: #f7f7f7;
+    padding-bottom: 70px;
+}
+
+.cad:hover{
+    transform: scale(1.1);
+}
+.button_1{
+    background-color: #78b833 !important;
+    border: none !important;
+}
+.parent{
+    justify-content: space-around !important;
+    padding-right: 80px !important;
+}
+
+.land{
+    height: 400px;
+    justify-items: space-around !important;
+}
+.land img{
+    width: 70%;
+}
+.by{
+    justify-content: center !important;
+}
+
+.footer {
+    
+    margin-top: 50px;
+}
+.footer_img {
+    height: 150px;
+    width: 60%;
+}
+
+.footer1 .cool{
+
+    min-height: 200px;
+    padding-right: 100px !important;
+} 
+.login_img{
+    border: none;
+    border-radius: 15px;
+}
+.form{
+    background-color: #f7f7f7;
+}
+.form_1{
+    border-radius: 15px !important;
+}
+.right{
+    min-height: 300px !important;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    background-color: gray;
+}
+.homes_1{
+    text-decoration: none;
+    color: black;
+}
+.button{
+    background-color: #78b833 !important;
+    border: none !important;
+    color: white !important;
+    border-radius: 20px !important;
+    
+}
+
+.property-card {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* .detailsimg{
+    height: 300px !important;
+} */
